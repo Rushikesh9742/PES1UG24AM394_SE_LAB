@@ -14,7 +14,6 @@
 - **Task 4:** `bonus_life_threshold()` returns `1500`.
 
 ## ChatGPT conversation
-https://chatgpt.com/c/6ac8fd41-a444-83ee-a390-353225ff12fc
-
+[Open the complete ChatGPT conversation](https://chatgpt.com/c/6ac8fd41-a444-83ee-a390-353225ff12fc)
 ## Note
 The assignment handout also asks for the chat history exported as a document/PDF. The PDF in this package is a summary of the implementation process, not a verbatim export of every chat message. If your instructor requires the complete verbatim history, export/download the conversation from ChatGPT and include that export as well.
